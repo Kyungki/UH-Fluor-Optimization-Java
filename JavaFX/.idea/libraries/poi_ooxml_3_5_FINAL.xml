@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="poi-ooxml-3.5-FINAL">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/poi-ooxml-3.5-FINAL.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
